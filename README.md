@@ -1,2 +1,4 @@
 # my-first-project
-My first GitHub project created to learn version control and cyber security basics.
+# My First Project
+
+Mini project developed as a CSE Cyber Security student to practice basic security concepts.
